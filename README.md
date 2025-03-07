@@ -5,8 +5,8 @@ SparkSQl - Data Analytics Course Module 22
 Using SparkSQL, I'll determine key metrics about home sales data. 
 
 # Methodology
-I'll use Spark to create temporary views, partition the data, cache and uncache a temporary table, and verify that the table has been uncached.
-I'll use PySpark to query the data.
+I'll use PySpark to create temporary views, partition the data, cache and uncache a temporary table, and verify that the table has been uncached.
+I'll use SparkSQL to query the data.
 
 ## Results
 
